@@ -1,0 +1,21 @@
+{
+  "name": "flexirank",
+  "version": "1.0.0",
+  "description": "Flexible lexical ranking algorithm for optimized reorder-able lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "rank",
+    "sorting",
+    "javascript",
+    "utils",
+    "lexorank"
+  ],
+  "author": "Hamza Naeem (Nuroverse)",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
