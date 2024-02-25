@@ -8,12 +8,14 @@
   },
   "keywords": [
     "rank",
+    "ranking",
     "sorting",
     "javascript",
     "utils",
-    "lexorank"
+    "lexical",
+    "lexicographical"
   ],
-  "author": "Hamza Naeem (Nuroverse)",
+  "author": "Hamza Naeem (Nuroverse) <github:hamzilitary>",
   "license": "AGPL-3.0",
   "devDependencies": {
     "jest": "^29.7.0"
