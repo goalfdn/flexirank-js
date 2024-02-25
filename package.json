@@ -19,5 +19,9 @@
   "license": "AGPL-3.0",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goalfdn/flexirank-js"
   }
 }
