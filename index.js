@@ -17,7 +17,6 @@ class Flexirank {
     }
 
     static encodedString(raWValue, bucketSize = undefined) {
-        console.log("raWValue:", raWValue);
         let encodedResult = '';
         let roundedValue = Math.floor(raWValue);
         while (roundedValue > 0) {
